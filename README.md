@@ -2,6 +2,8 @@
 
 A local Übersicht widget with a clock, a seven-day view of macOS Calendar, notes, and an Eisenhower task matrix. It uses `icalBuddy` to read Calendar events. Notes, tasks, layout, position, and appearance are saved on this Mac.
 
+<img src="docs/screenshot.png" alt="King's Desk widget with a tall lock-screen style clock, week strip, note, and task matrix" width="420">
+
 ## Install
 
 1. Install [Übersicht](https://tracesof.net/uebersicht/) and, for calendar events, icalBuddy:
